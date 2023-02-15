@@ -1,0 +1,25 @@
+body{
+    margin:0;
+    padding:0;
+    font-size: 50px;
+    background-color: rgb(0, 0, 0);
+    /* text-shadow: rgba(202,151,42,1) 0px 0px 41px; */
+}
+
+.container .sub1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container .sub2{
+    height:400px;
+    width:500px;
+    color: rgb(202, 151, 42);
+    font-weight: 50;
+    padding-left: 18px;
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
